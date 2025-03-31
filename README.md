@@ -9,9 +9,11 @@ Due to the comprehensive focus on the study of software development and the impl
 
 ## Project Diagrams 
 ### 1) Auction System
+Implementation of Template Method pattern for Auction.
 > <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Auction_System/auction_system.PNG" width="350" height="350" /> 
 
 ### 2) Bank Account
+Implementation of State pattern for AccountState.
 > <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Bank_Account/bank_account.png" width="350" height="350" /> 
 
 ### 3) COOLIDEAS
@@ -23,13 +25,17 @@ State diagram
 > <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/COOLIDEAS/coolideas_state.png" width="650" height="300" /> 
 
 ### 4) Desktop Search Engine
+Implementation of Interator pattern for TextFileIterator.
 <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Desktop_Search_Engine/desktop_search.png" width="350" height="350" /> 
 
 ### 5) Event App
+Implementation of Composite pattern for EventCatalogImpl.
 <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Event_App/event_app.png" width="350" height="350" /> 
 
 ### 6) My Matrix
+Implementation of Iterator pattern for DepthFirstIterator.
 <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/MyMatrix/matrix.png" width="350" height="350" /> 
 
 ### 7) Payroll
+Implementation of Factory Method pattern for Employee.
 <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Payroll_Exam/payroll.png" width="350" height="350" /> 
