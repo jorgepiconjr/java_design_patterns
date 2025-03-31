@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Auction_System_Exam_WS_2011/Auction_System_Exam_WS_2011.iml" filepath="$PROJECT_DIR$/Auction_System_Exam_WS_2011/Auction_System_Exam_WS_2011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank_Account_Exam_SS_2017/Bank_Account_Exam_SS_2017.iml" filepath="$PROJECT_DIR$/Bank_Account_Exam_SS_2017/Bank_Account_Exam_SS_2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COOLIDEAS_Exam_WS_2009_10/COOLIDEAS_Exam_WS_2009_10.iml" filepath="$PROJECT_DIR$/COOLIDEAS_Exam_WS_2009_10/COOLIDEAS_Exam_WS_2009_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop_Search_Engine_Exam06_07/Desktop_Search_Engine_Exam06_07.iml" filepath="$PROJECT_DIR$/Desktop_Search_Engine_Exam06_07/Desktop_Search_Engine_Exam06_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enterprise_Node_Exam_SS_2015/Enterprise_Node_Exam_SS_2015.iml" filepath="$PROJECT_DIR$/Enterprise_Node_Exam_SS_2015/Enterprise_Node_Exam_SS_2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Event_App_Exam_SS_2013/Event_App_Exam_SS_2013.iml" filepath="$PROJECT_DIR$/Event_App_Exam_SS_2013/Event_App_Exam_SS_2013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMatrix_Exam_WS_2008_09/MyMatrix_Exam_WS_2008_09.iml" filepath="$PROJECT_DIR$/MyMatrix_Exam_WS_2008_09/MyMatrix_Exam_WS_2008_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Payroll_Exam_WS_2012/Payroll_Exam_WS_2012.iml" filepath="$PROJECT_DIR$/Payroll_Exam_WS_2012/Payroll_Exam_WS_2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design_patterns.iml" filepath="$PROJECT_DIR$/.idea/design_patterns.iml" />
+    </modules>
+  </component>
+</project>
