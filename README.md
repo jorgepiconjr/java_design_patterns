@@ -7,13 +7,29 @@ During my second 2nd semester of my Computer Science career at the [Technical Un
 
 Due to the comprehensive focus on the study of software development and the implementation of deep domain design patterns, I would like to show my knowledge in this regard. 
 
-## Projects and Diagrams
-<img src="https://github.com/jorgepiconjr/robolab-robotics-lego/blob/0b6577e322f4edd692e49c8cfef9c001744c858d/Wrobot1.jpg" width="350" height="350"/> 
-### Auction System
-### Bank Account
-### COOLIDEAS
-### Desktop Search Engine
-###Enterprise Node
-### Event App
-### My Matrix
-### Payroll
+## Project Diagrams 
+### 1) Auction System
+> <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Auction_System/auction_system.PNG" width="350" height="350" /> 
+
+### 2) Bank Account
+> <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Bank_Account/bank_account.png" width="350" height="350" /> 
+
+### 3) COOLIDEAS
+> <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/COOLIDEAS/coolideas.png" width="350" height="350" /> 
+Observer pattern implementation
+> <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/COOLIDEAS/coolideas_observer.png" width="450" height="350" />
+
+State diagram
+> <img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/COOLIDEAS/coolideas_state.png" width="650" height="300" /> 
+
+### 4) Desktop Search Engine
+<img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Desktop_Search_Engine/desktop_search.png" width="350" height="350" /> 
+
+### 5) Event App
+<img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Event_App/event_app.png" width="350" height="350" /> 
+
+### 6) My Matrix
+<img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/MyMatrix/matrix.png" width="350" height="350" /> 
+
+### 7) Payroll
+<img src="https://github.com/jorgepiconjr/java_design_patterns/blob/master/Payroll_Exam/payroll.png" width="350" height="350" /> 
