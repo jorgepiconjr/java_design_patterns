@@ -1,5 +1,5 @@
 # Software Design Patterns in JAVA
-Repository based on practical implementation of different [Software Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern), such as Factory Method, Composite, template Method, Iterator, among others.
+Repository based on practical implementation of different [Software Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern), such as Factory Method, Builder, Composite, Template Method, Iterator, State, among others.
 
 ## Why the creation of this repository? 
 During my second 2nd semester of my Computer Science career at the [Technical University of Dresden](https://tu-dresden.de/) I took the module [Software Technology](https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?subject=508&lang=de&leaf=2&embedding_id=47eddfa7c5a54ed5be49042aff35a31b) which consists of:
